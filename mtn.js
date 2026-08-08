@@ -8,4 +8,3 @@ location.href='https://www.anniveroffre.site/25gb';
 
 }
 
-</script>
